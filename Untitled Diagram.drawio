@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T02:10:11.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7oSgAUl9FV8xWBfjeGYd" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T16:01:59.392Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nqChzEcClmfBr3KQ7Xgq" version="20.0.1" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1255" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1171" dy="749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,6 +118,24 @@
         </mxCell>
         <mxCell id="gfJlG4u2p-3kc8zNwAl6-54" value="SSO单点模块" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="550" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gfJlG4u2p-3kc8zNwAl6-56" value="组织模块" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gfJlG4u2p-3kc8zNwAl6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfJlG4u2p-3kc8zNwAl6-39" target="gfJlG4u2p-3kc8zNwAl6-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382.9999999999998" y="469.94117647058806" as="sourcePoint" />
+            <mxPoint x="633" y="170.05882352941182" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="963" y="373" />
+              <mxPoint x="144" y="373" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gfJlG4u2p-3kc8zNwAl6-58" value="更新数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gfJlG4u2p-3kc8zNwAl6-57">
+          <mxGeometry x="0.0369" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
