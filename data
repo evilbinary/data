@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T15:58:50.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xUydvu38yzPwpMPDaL7z" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T15:59:37.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="z9QQ_gzuSjl1iKqXh5Xz" version="20.0.1" type="github">
   <diagram id="MkgssCF2u_z4VazoHWr0" name="第 1 页">
     <mxGraphModel dx="868" dy="586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="DzfRlLPIvErUqhAHTRWW-41" value="标准数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="205.25" y="89" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DzfRlLPIvErUqhAHTRWW-42" value="人脸头像数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="DzfRlLPIvErUqhAHTRWW-42" value="人脸特征数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="239" y="138" width="114.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DzfRlLPIvErUqhAHTRWW-43" value="标签数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
