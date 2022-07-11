@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T09:51:00.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-DfmoeWUZ6nuMdXutqxn" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T03:36:13.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="sXDIDF0RxYqyYknpdG9r" version="20.0.1" type="github">
   <diagram id="ypBNLHmtR6GumH8aQKVH" name="第 1 页">
-    <mxGraphModel dx="967" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,7 +138,7 @@
           <mxGeometry x="682" y="216" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAgNHWFIdGceHUbPGEbR-34" value="应用" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFCCE6;" vertex="1" parent="1">
-          <mxGeometry x="387" y="507" width="80" height="80" as="geometry" />
+          <mxGeometry x="385" y="579" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uAgNHWFIdGceHUbPGEbR-35" value="身份" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFCCE6;" vertex="1" parent="1">
           <mxGeometry x="206" y="24" width="80" height="80" as="geometry" />
@@ -152,6 +152,34 @@
         <mxCell id="uAgNHWFIdGceHUbPGEbR-38" value="拥有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uAgNHWFIdGceHUbPGEbR-37">
           <mxGeometry x="0.14" y="1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAgNHWFIdGceHUbPGEbR-39" value="厂商" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="666" y="405" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uAgNHWFIdGceHUbPGEbR-40" value="特征" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="522" y="511" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uAgNHWFIdGceHUbPGEbR-41" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uAgNHWFIdGceHUbPGEbR-2" target="uAgNHWFIdGceHUbPGEbR-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="526.9981688260677" y="412.0018208199108" as="sourcePoint" />
+            <mxPoint x="612.4227026639101" y="500.4573375101479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAgNHWFIdGceHUbPGEbR-42" value="拥有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uAgNHWFIdGceHUbPGEbR-41">
+          <mxGeometry x="0.0154" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAgNHWFIdGceHUbPGEbR-43" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uAgNHWFIdGceHUbPGEbR-40" target="uAgNHWFIdGceHUbPGEbR-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="536.9981688260677" y="422.0018208199108" as="sourcePoint" />
+            <mxPoint x="562.1664150401646" y="522.2275793012204" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAgNHWFIdGceHUbPGEbR-44" value="属于" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uAgNHWFIdGceHUbPGEbR-43">
+          <mxGeometry x="0.0154" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
