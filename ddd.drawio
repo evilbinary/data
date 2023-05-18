@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T10:11:32.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="zmJJ_FfuHLMejuM1c3aQ" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T10:12:16.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="kYrQb7vBvc5h5bdARAOo" version="21.3.2" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1253" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
           <mxGeometry x="825" y="842.5" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-15" value="营销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="815" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-16" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="860" width="120" height="60" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-26" value="快递" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NLb3KwNzrhoPw6QWM6QT-38" value="财务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
