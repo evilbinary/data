@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T02:50:19.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="v7NXfUKO-kMZ1SQGIYBd" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T02:53:16.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="yS0FfSL963qOim_6l-Xs" version="21.3.2" type="github">
   <diagram name="第 1 页" id="o9Ei0PC76Jg45LqllU9U">
     <mxGraphModel dx="1885" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="GNhCBHddAeiy44cL_EDV-14" value="控制层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="155" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GNhCBHddAeiy44cL_EDV-15" value="访客" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GNhCBHddAeiy44cL_EDV-15" value="访客&lt;br&gt;帮助 资讯 医生 产品 店铺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="180" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNhCBHddAeiy44cL_EDV-16" value="合作伙伴" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
