@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T10:12:16.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="kYrQb7vBvc5h5bdARAOo" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T10:31:14.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="IrVTmm8p4aDfichDD6ob" version="21.3.2" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1226" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -25,13 +25,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-6" value="库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="616" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NLb3KwNzrhoPw6QWM6QT-8" target="NLb3KwNzrhoPw6QWM6QT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-8" value="采购" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="616" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.317;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NLb3KwNzrhoPw6QWM6QT-10" target="NLb3KwNzrhoPw6QWM6QT-1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry x="825" y="842.5" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-15" value="营销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-16" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="860" width="120" height="60" as="geometry" />
@@ -111,6 +111,15 @@
         </mxCell>
         <mxCell id="NLb3KwNzrhoPw6QWM6QT-38" value="财务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="679" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NLb3KwNzrhoPw6QWM6QT-39" value="处方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NLb3KwNzrhoPw6QWM6QT-41" value="资讯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NLb3KwNzrhoPw6QWM6QT-42" value="报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
