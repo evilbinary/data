@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T07:25:48.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="IC_zMJSArUlo9iZQGDy_" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T07:54:06.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="awWM46DSySaZiAyx4hIa" version="21.3.7" type="github">
   <diagram name="第 1 页" id="exma7JkuY5qbUYQ8rMZK">
-    <mxGraphModel dx="1145" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1145" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RrpplTIx3kTd8ZDuwtf0-32" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1165" width="490" height="105" as="geometry" />
+          <mxGeometry x="80" y="1165" width="680" height="105" as="geometry" />
         </mxCell>
         <mxCell id="RrpplTIx3kTd8ZDuwtf0-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1308" width="690" height="140" as="geometry" />
@@ -154,17 +154,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RrpplTIx3kTd8ZDuwtf0-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.025;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="RrpplTIx3kTd8ZDuwtf0-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="RrpplTIx3kTd8ZDuwtf0-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399" y="1219" as="sourcePoint" />
             <mxPoint x="441" y="1345" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="1219" />
+              <mxPoint x="440" y="1225" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RrpplTIx3kTd8ZDuwtf0-46" value="认证服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1339" width="120" height="80" as="geometry" />
+        <mxCell id="RrpplTIx3kTd8ZDuwtf0-46" value="cas认证服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1178.75" width="120" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RrpplTIx3kTd8ZDuwtf0-47" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1210" as="sourcePoint" />
+            <mxPoint x="560" y="1210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RrpplTIx3kTd8ZDuwtf0-48" value="认证授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1226.25" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
